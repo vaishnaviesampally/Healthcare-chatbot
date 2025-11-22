@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "Name": "q",
+            "Age": 20,
+            "Gender": "female",
+            "Disease": "Dengue",
+            "Sympts": [
+                "chills",
+                "back_pain",
+                "vomiting",
+                "high_fever",
+                "headache",
+                "pain_behind_the_eyes",
+                "malaise",
+                "muscle_pain",
+                "red_spots_over_body"
+            ]
+        }
+    ]
+}
